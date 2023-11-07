@@ -3,6 +3,13 @@
 
 A small django Authentication mechanism
 
+## Use Case
+![UseCase](./auth_usecase.png)
+
+## Activity Diagram
+![UseCase](./auth_activity_diagram.png)
+
+
 ## Technologies Used
 * Django           
 * REST API
